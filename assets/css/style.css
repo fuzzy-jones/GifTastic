@@ -1,0 +1,26 @@
+body {
+    background-color: white;
+}
+
+#button-space {
+    background-color: lightblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#giphy-space {
+    background-color: lightgreen;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#input-space {
+    background-color:  lightsalmon;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+button {
+    margin: 10px;
+}
+
