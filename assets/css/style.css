@@ -1,21 +1,23 @@
 body {
-    background-color: white;
+    background-image: url("../images/GOT-background.jpg");
+    background-size: cover;
 }
 
 #button-space {
-    background-color: lightblue;
+    margin-top: 10px;
+    background-color: white;
     padding-top: 10px;
     padding-bottom: 10px;
 }
 
 #giphy-space {
-    background-color: lightgreen;
+    background-color: white;
     padding-top: 10px;
     padding-bottom: 10px;
 }
 
 #input-space {
-    background-color:  lightsalmon;
+    background-color:  lightgrey;
     padding-top: 10px;
     padding-bottom: 10px;
 }
