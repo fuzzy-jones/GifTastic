@@ -1,6 +1,7 @@
 body {
     background-image: url("../images/GOT-background.jpg");
     background-size: cover;
+    background-attachment: fixed;
 }
 
 #button-space {
@@ -12,8 +13,8 @@ body {
 
 #giphy-space {
     background-color: white;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 #input-space {
@@ -25,4 +26,9 @@ body {
 button {
     margin: 10px;
 }
+
+.container {
+    margin-bottom: 20px;
+}
+
 
