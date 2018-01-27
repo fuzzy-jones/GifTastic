@@ -1,5 +1,5 @@
 body {
-    background-image: url("../images/GOT-background.jpg");
+    background-image: url("../images/GOT5-background.jpg");
     background-size: cover;
     background-attachment: fixed;
 }
@@ -9,18 +9,26 @@ body {
     background-color: white;
     padding-top: 10px;
     padding-bottom: 10px;
+    border: 2px solid black;
 }
 
 #giphy-space {
     background-color: white;
     padding-top: 15px;
     padding-bottom: 15px;
+    border: 2px solid black;
+}
+
+#giphy-view {
+    font-weight: bold;
 }
 
 #input-space {
     background-color:  lightgrey;
     padding-top: 10px;
     padding-bottom: 10px;
+    border: 2px solid black;
+    margin-bottom: 10px;
 }
 
 button {
