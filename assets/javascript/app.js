@@ -82,7 +82,7 @@ function displayCharacterInfo() {
             // add attribute of "data-animate" to gif and the regular playing response from gifUrl to later reanimate the gif in play pause function
             gif.attr("data-animate", response.data[i].images.fixed_height.url);
             // gif the gif variable a "data-state" attribute of animate to so we can have it playing by default in play/pause function
-            gif.attr("date-state", "animate");
+            gif.attr("data-state", "animate");
             // appending the gif variable with a stored value of the url address in the character div variable 
             characterDiv.append(gif);
 
